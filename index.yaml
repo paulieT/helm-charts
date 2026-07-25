@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - nginx-0.0.1.tgz
+    - https://pauliet.github.io/helm-charts/nginx-0.0.1.tgz
     version: 0.0.1
 generated: "2026-07-25T21:50:52.85779+02:00"
